@@ -3,6 +3,11 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/guilhermepicasso/19cc219d85417c5e91bf56649ddf5d3c/raw/a8b05883fa88c0fcdf5c485c4e7f4cda0a6bba94/profileCard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Guilherme Picasso</h1>
 
+<div>
+   <a href="https://www.linkedin.com/in/guilherme-picasso/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://instagram.com/picasso__gn?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a> 
+</div>
+
 <br><br>
 
 - 🔥 Programmer Student  
