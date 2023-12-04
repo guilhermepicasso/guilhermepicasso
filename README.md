@@ -37,8 +37,8 @@
 <br><br>
 
 <p align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=guilhermepicasso&show_icons=true&theme=vision-friendly-dark&include_all_commits=true" alt="guilhermepicasso's stats"/>
-<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepicasso&layout=compact&theme=vision-friendly-dark" alt="guilhermepicasso's most languages"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=guilhermepicasso&show_icons=true&theme=vision-friendly-dark&include_all_commits=true" alt="guilhermepicasso's stats"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepicasso&layout=compact&theme=vision-friendly-dark" alt="guilhermepicasso's most languages"/>
 </p>
 
 
