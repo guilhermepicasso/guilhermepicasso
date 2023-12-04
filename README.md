@@ -38,7 +38,7 @@
 
 <p align="left">
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=guilhermepicasso&show_icons=true&theme=vision-friendly-dark" alt="guilhermepicasso's stats"/>
-<img width="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepicasso&layout=compact&theme=vision-friendly-dark" alt="guilhermepicasso's most languages"/>
+<img width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepicasso&layout=compact&theme=vision-friendly-dark" alt="guilhermepicasso's most languages"/>
 </p>
 
 
