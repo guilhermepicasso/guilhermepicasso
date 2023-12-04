@@ -36,10 +36,12 @@
 
 <br><br>
 
-<p align="left">
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=guilhermepicasso&show_icons=true&theme=vision-friendly-dark" alt="guilhermepicasso's stats"/>
-<img width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepicasso&layout=compact&theme=vision-friendly-dark" alt="guilhermepicasso's most languages"/>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermepicasso&show_icons=true&include_all_commits=true&theme=swift" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermepicasso&layout=compact&langs_count=8&card_width=320&theme=swift" />
+</a>
 
 
 <!--
