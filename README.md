@@ -40,7 +40,7 @@
 <br><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermepicasso&show_icons=true&include_all_commits=true&theme=swift" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermepicasso&show_icons=true&i&theme=swift" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepicasso&layout=compact&langs_count=7&theme=swift" />
