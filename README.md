@@ -12,7 +12,7 @@
 
 - 📚 I’m currently studying in Centro Universitário Senac
 
-- 👨‍🎓 Currently in the 3º semester of the course 
+- 👨‍🎓 Currently in the 4º semester of the course 
 
 <!-- ▶️ -->
 
